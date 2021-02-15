@@ -2,8 +2,8 @@
 
 ## Requirements
 
-**Python2.x**<html><br></html>
-**Scapy Library**
+Python2.x**<html><br></html>
+Scapy Library
 
 ## [+] Install
 ```
