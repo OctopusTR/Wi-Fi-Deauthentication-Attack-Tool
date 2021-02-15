@@ -2,7 +2,7 @@
 
 ## [+] Install
 ```
-git clone https://github.com/OctopusTR/Wi-Fi-Deauthentication-Attack && cd Wi-Fi-Deauthentication-Attack
+git clone https://github.com/OctopusTR/Wi-Fi-Deauthentication-Attack-Tool && cd Wi-Fi-Deauthentication-Attack-Tool
 pip install -r requirements.txt
 ```
 ## [+] Usage
