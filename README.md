@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Python2.x<html><br></html>
+Python 2.x<html><br></html>
 Scapy Library
 
 ## [+] Install
