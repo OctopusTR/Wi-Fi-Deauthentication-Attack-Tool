@@ -1,5 +1,11 @@
 # Wi-Fi-Deauthentication-Attack
 
+## Requirements
+
+**Python2.x**
+
+**Scapy library**
+
 ## [+] Install
 ```
 git clone https://github.com/OctopusTR/Wi-Fi-Deauthentication-Attack-Tool
