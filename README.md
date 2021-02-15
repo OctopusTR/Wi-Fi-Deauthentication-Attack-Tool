@@ -1,5 +1,5 @@
 # Wi-Fi-Deauthentication-Attack
-
+It is an attack tool that sends Deauthentication Frame to client or clients, connected to the network of an AP, disconnecting these client or clients and dropping them from the network.
 ## Requirements
 
 Python 2.x<html><br></html>
